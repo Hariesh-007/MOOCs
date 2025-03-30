@@ -1,2 +1,1 @@
-# MOOCs
-My MOOCs certifications
+# coding-project-template
